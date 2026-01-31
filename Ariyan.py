@@ -6,7 +6,7 @@ import time
 STATUS_URL = (
   "https://raw.githubusercontent.com/Ariyan20267/FF-Premium-Id-gen/main/ariyan_tool_status.txt"
   + "?v=" + str(int(time.time()))
-)"
+)
 
 def _owner_allows():
     try:
